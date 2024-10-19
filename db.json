@@ -1,0 +1,61 @@
+{
+    "Dogs": [
+    {
+      "id": "8",
+      "breed": "husky",
+      "image_url": "https://images.dog.ceo/breeds/husky/n02110185_6775.jpg",
+      "price": 35000,
+      "comment": "good for security and guide",
+      "description": "A friendly and affectionate small dog."
+    },
+    {
+      "id": "6",
+      "breed": "chow",
+      "image_url": "https://images.dog.ceo/breeds/chow/n02112137_8825.jpg",
+      "price": 10000,
+      "description": "good for petting."
+    },
+    {
+      "id": "7",
+      "breed": "mastiff-tibetan",
+      "image_url": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_978.jpg",
+      "price": 37000,
+      "description": "good for security"
+    },
+    {
+      "id": "8",
+      "breed": "deerhound-scottish",
+      "image_url": "https://images.dog.ceo/breeds/deerhound-scottish/n02092002_7696.jpg",
+      "price": 40000,
+      "description": "good for sports and hunting"
+    },
+    {
+      "id": "1a79",
+      "breed": "german",
+      "image_url": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_6575.jpg",
+      "price": 60000,
+      "description": "black in colour,good for security and petting"
+    },
+    {
+      "id": "298b",
+      "breed": "german",
+      "image_url": "https://images.dog.ceo/breeds/stbernard/n02109525_13580.jpg",
+      "price": 30000,
+      "description": "good for security"
+    },
+    {
+      "id": "daca",
+      "breed": "Mutina",
+      "image_url": "https://images.dog.ceo/breeds/frise-bichon/5.jpg",
+      "price": 15000,
+      "description": "good pet"
+    },
+    {
+      "id": "66be",
+      "breed": "Bosco",
+      "image_url": "https://images.dog.ceo/breeds/poodle-medium/WhatsApp_Image_2022-08-06_at_4.48.38_PM.jpg",
+      "price": 6000,
+      "description": "trained for guarding"
+    }
+  ]
+}
